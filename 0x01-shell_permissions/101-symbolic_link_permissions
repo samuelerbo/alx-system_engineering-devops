@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincet _hello | sudo chgrp staff _hello
+sudo chown vincet hello | sudo chgrp staff hello
